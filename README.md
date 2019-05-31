@@ -1,5 +1,20 @@
 # International Organisation for Migration Challenge
-2nd edition of Hackathon for Good
+2nd edition of the Hackathon for Peace, Justice and Security
+
+## AI TO BOLSTER QUALITY CONTROL OF DATA FOR ENHANCED HUMANITARIAN RESPONSE TO MIGRATION CRISES  
+**Problem:** Displacement Tracking Matrix (DTM) collects and produces data and data products for humanitarian response and programming  in a variety of crises that drive human displacement across the globe, including generalized violence, conflict, and sudden and slow onset disasters. DTM operations are conducted throughout all crisis stages: emergency, preparedness, transition and recovery. Strong data and analysis means better response. Nearly 4,000 public DTM products (including but not limited to: reports, spread sheets, figures, maps) have been produced to date. To generate relevant and useful products, DTM utilizes multiple different platforms, databases, documents and languages. To maximize the use of versatile resources essential to data collection, analysis, and presentation, DTM is working to expand its ability to detect relevant data and sources across internal and external documents using a combined NLP/Image-recognition tool that can extract relevant data from both DTM products and outside sources, such as media, which make reference to DTM data. Additionally, DTM plans for AI innovatoin to support quality control of DTM data products by reviewing for gaps or inconsistencies and enabling DTM to cross-check internal and external materials.  
+
+**Outcome:** DTM is commited to implementing an effective and predicatable tool for sustaining and enhancing quality data collection and analysis while preventing and mitigating errors in data products. Going forward, we seek a tool and process that utilizes AI to: 
+
+-Detect relevant information, including references, figures, populations, and geographical information (among other elements) to recognize material in external documents and platforms that refer to DTM’s data or products. 
+
+-Bolster DTM’s capacity to cross-check external citations regarding DTM data and products to information and data in DTM’s publications. 
+
+-Identify possible inconsistencies, typos, and grammatical issues that went overlooked in DTM’s drafted documents prior to publication.
+
+**Dataset:** DTM PDF products can be viewed on the DTM global website https://www.globaldtm.info/.
+
+**Relevant links and resources:** Coming soon
 
 ## Deep Learning Resources
 If you are developing a deep neural network based solution, you can use the free GPUs provided by either Google Colab or Kaggle. Here are the instructions for both:
