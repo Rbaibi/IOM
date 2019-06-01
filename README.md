@@ -13,8 +13,8 @@
 
 -Identify possible inconsistencies, typos, and grammatical issues that went overlooked in DTM’s drafted documents prior to publication.
 
-## Dataset
-DTM PDF products can be viewed [here](https://displacement.iom.int/).
+## Datasets
+DTM datasets can be viewed [here](https://displacement.iom.int/).
 
 
 ## Deep Learning Resources
