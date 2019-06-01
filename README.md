@@ -1,5 +1,6 @@
 # International Organisation for Migration Challenge
 2nd edition of the Hackathon for Peace, Justice and Security
+
 https://www.hackathonforgood.org
 
 ## AI TO BOLSTER QUALITY CONTROL OF DATA FOR ENHANCED HUMANITARIAN RESPONSE TO MIGRATION CRISES  
