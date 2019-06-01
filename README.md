@@ -14,7 +14,7 @@
 -Identify possible inconsistencies, typos, and grammatical issues that went overlooked in DTM’s drafted documents prior to publication.
 
 ## Dataset
-DTM PDF products can be viewed on the DTM global [website](https://www.globaldtm.info).
+DTM PDF products can be viewed [here](https://displacement.iom.int/).
 
 
 ## Deep Learning Resources
